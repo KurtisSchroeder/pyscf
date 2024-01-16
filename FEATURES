@@ -1,6 +1,6 @@
-* Hartree-Fock
+*#Hartree-Fock
 
-  - Non-relativistic restricted open-shell, unrestricted HF (~5000 basis for
+* - Non-relativistic restricted open-shell, unrestricted HF (~5000 basis for
     serial version, ~30000 basis in MPI mode)
   - Scalar relativistic HF
   - 2-component relativistic HF
@@ -251,3 +251,4 @@
   - (GAMESS-format) wfn writer
   - Vasp CHGCAR-format writer
 
+ 
